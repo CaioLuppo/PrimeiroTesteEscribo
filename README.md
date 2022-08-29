@@ -5,6 +5,7 @@ uma empresa apaixonada pela educação que utiliza apps de jogos pedagógicos a 
 
 Neste teste, foi solicitado um código que calculasse a soma dos elementos inteiros inferiores ao número informado, que fossem divididos por 3 ou 5. Tudo isso utilizando a linguagem Dart.
 
+
 ## Como rodar o código
 
 - <a href="https://dart.dev/get-dart/archive">Baixe o Dart-SDK</a> para seu sistema operacional;
