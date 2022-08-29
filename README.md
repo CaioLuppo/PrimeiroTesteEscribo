@@ -15,6 +15,8 @@ Neste teste, foi solicitado um código que calculasse a soma dos elementos intei
 -> Selecione o **local onde instalou o SDK** e abra a pasta **bin** -> **Abrir**;
 - Com a interface de comando escolhida, vá até o diretório onde baixou o projeto e digite **"dart run"**.
 
+> Obs: o código principal esta em /bin/teste_tecnico_01.dart
+
 Pronto! Agora você já pode usar o programa. 🥳
 
 <br>
